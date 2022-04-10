@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9013FE</color>
+    <color name="colorPrimaryDark">#6A1B9A</color>
+    <color name="colorAccent">#9013FE</color>
+
+    <color name="colorLight">#eeecda</color>
+    <color name="colorOrange">#f08a5d</color>
+    <color name="colorPink">#b83b5e</color>
+    <color name="colorPurple">#6a2c70</color>
+
+    <color name="lightPurpleTextColor">#a06ee1</color>
+    <color name="darkPurpleTextColor">#421b9b</color>
+
+
+
+
+</resources>
